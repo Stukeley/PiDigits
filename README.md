@@ -1,5 +1,5 @@
 # PiDigits
-<img src="https://www.codefactor.io/Content/badges/APlus.svg" />
+<a href="https://www.codefactor.io/repository/github/stukeley/pidigits"><img src="https://www.codefactor.io/repository/github/stukeley/pidigits/badge" alt="CodeFactor" /></a>
 
 
 Guess digits of PI - available in two versions (Console and WPF app).
