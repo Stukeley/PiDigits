@@ -1,4 +1,7 @@
 # PiDigits
+<img src="https://www.codefactor.io/Content/badges/APlus.svg" />
+
+
 Guess digits of PI - available in two versions (Console and WPF app).
 
 # How does it work
